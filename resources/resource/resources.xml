@@ -1,0 +1,5 @@
+<resources>
+ <fonts>
+  <font id="id_font_small" filename="fonts/ArslanWessam18.fnt" antialias="true" filter="واحدة" />
+ </fonts>
+</resources>
